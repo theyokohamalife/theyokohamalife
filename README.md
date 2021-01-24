@@ -8,7 +8,14 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     Key Responsibilities:  
     * Implementing the front end with NuxtJS
     * Implementing user authentication with Firebase
-    * UX/UI design across the app
+    * UX/UI design across the web app
+
+2. [Find a Doc](https://github.com/Our-Japan-Life/findadoc): An open source project to help foreign residents find doctors that speak their native languages in Japan.  
+
+    Key Responsibilities:   
+    * Creator and tech lead
+    * Full implementation of the front end using NuxtJS, JavaScript, and Vue 3
+    * Managing the Firebase Cloud resources for the back end
 
 <!--
 **theyokohamalife/theyokohamalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
