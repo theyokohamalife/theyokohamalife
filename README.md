@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hey there, I'm LaShawn — aka [The Yokohama Life](https://theyokohamalife.com) 🙋🏾‍♀️
+
+I'm a former English teacher turned software developer that's living in Japan. 🇯🇵
+
+### 🔭 I’m currently working on ...
+1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): An app to translate Japanese ingredients and share amazing food recipes!
 
 <!--
 **theyokohamalife/theyokohamalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
