@@ -1,9 +1,14 @@
 ## Hey there, I'm LaShawn — aka [The Yokohama Life](https://theyokohamalife.com) 🙋🏾‍♀️
 
-I'm a former English teacher turned software developer that's living in Japan. 🇯🇵
+I'm a full stack software engineer living in Japan. 🇯🇵
 
 ### 🔭 I’m currently working on ...
-1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): An app to translate Japanese ingredients and share amazing food recipes!
+1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): A database to share translations of Japanese ingredients and amazing food recipes!  
+
+    Key Responsibilities:  
+    * Implementing the front end with NuxtJS
+    * Implementing user authentication with Firebase
+    * UX/UI design across the app
 
 <!--
 **theyokohamalife/theyokohamalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
