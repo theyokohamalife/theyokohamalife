@@ -9,7 +9,7 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     * Implementing the front end with NuxtJS
     * Implementing user authentication with Firebase
     * UX/UI design across the web app
-    * Handling communications between the front end and Cloud databases
+    * Handling communications between the front end and Google Cloud Firestore and Storage
 
 2. [Find a Doc](https://github.com/Our-Japan-Life/findadoc): An open source project to help foreign residents find doctors that speak their native languages in Japan.  
 
