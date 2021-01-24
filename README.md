@@ -9,10 +9,11 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     * Implementing the front end with NuxtJS
     * Implementing user authentication with Firebase
     * UX/UI design across the web app
+    * Handling communications between the front end and Cloud databases
 
 2. [Find a Doc](https://github.com/Our-Japan-Life/findadoc): An open source project to help foreign residents find doctors that speak their native languages in Japan.  
 
-    Key Responsibilities:   
+    Key Responsibilities: 
     * Creator and tech lead
     * Full implementation of the front end using NuxtJS, JavaScript, and Vue 3
     * Managing the Firebase Cloud resources for the back end
