@@ -6,7 +6,7 @@ I'm a full stack software engineer living in Japan. 🇯🇵
 1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): A database to share translations of Japanese ingredients and amazing food recipes!  
 
     Key Responsibilities:  
-    * Implementing the front end with NuxtJS
+    * Implementing the front end with NuxtJS and Server-side rendering (SSR)
     * Implementing user authentication with Firebase
     * UX/UI design across the web app
     * Handling communications between the front end and Google Cloud Firestore and Storage
