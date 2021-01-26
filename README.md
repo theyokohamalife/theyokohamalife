@@ -11,12 +11,14 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     * Relaying product information between the user and database using the QuaggaJS barcode library
     * Handling data communications between the front end and Google Cloud Firestore and Storage
     
-2. [Hey, Doc!] (https://github.com/YoSoRyuShawn/your-solution-front): Progressive Web App to find, book, and consult with doctors remotely. 
+2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-front): Progressive Web App to find, book, and consult with doctors remotely.   
+
+    Key Responsibilities:  
     * Engineered the back end and created a CRUD API using ​Node.js​, ​Knex.js​, P​ ostgreSQL​, and ​Express.js​.
     * Deployed the back end to ​Heroku​ with a pipeline of staging and production servers with ​Git​ environments.
     * Improved UI/UX of the ​React​ front end with HTML, CSS.
 
-3. [Our Japan Life](https://github.com/Our-Japan-Life/findadoc): An open source project to help foreign residents to find healthcare and other services in their native languages.  
+3. [Our Japan Life](https://github.com/Our-Japan-Life/findadoc): An open source project to help foreign residents find healthcare and other services in their native languages.  
 
     Key Responsibilities: 
     * Creator and tech lead
