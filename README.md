@@ -25,7 +25,8 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     * Full implementation of the front end using NuxtJS, JavaScript, and Vue 3
     * Managing the Firebase Cloud resources for the back end
 
-4. [Voices in My Head](https://github.com/theyokohamalife/voices-in-my-head): iOS voice-controlled game for students practicing another language
+4. [Voices in My Head](https://github.com/theyokohamalife/voices-in-my-head): iOS voice-controlled game for students practicing another language  
+    
     About the app:
     * Solo project I created for fun with SwiftUI
     * Watch a funny clip of it here: [When Machine Learning Goes Terribly Wrong](https://twitter.com/theyokohamalife/status/1342095973963591681?s=20)
