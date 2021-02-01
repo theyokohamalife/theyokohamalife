@@ -16,7 +16,7 @@ I'm a full stack software engineer living in Japan. 🇯🇵
 2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-back): Progressive Web App to find, book, and consult with doctors remotely.   
 
     Key Responsibilities:  
-    * Engineered the back end and created a CRUD API using ​Node.js​, ​Knex.js​, P​ ostgreSQL​, and ​Express.js​.
+    * Engineered the back end and created a CRUD API using ​Node.js​, ​Knex.js​, PostgreSQL​, and ​Express.js​.
     * Deployed the back end to ​Heroku​ with a pipeline of staging and production servers with ​Git​ environments.
     * Improved UI/UX of the ​React​ front end with HTML, CSS.
 
