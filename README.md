@@ -13,7 +13,7 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     * Relaying product information between the user and database using the QuaggaJS barcode library
     * Handling data communications between the front end and Google Cloud Firestore and Storage
     
-2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-front): Progressive Web App to find, book, and consult with doctors remotely.   
+2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-back): Progressive Web App to find, book, and consult with doctors remotely.   
 
     Key Responsibilities:  
     * Engineered the back end and created a CRUD API using ​Node.js​, ​Knex.js​, P​ ostgreSQL​, and ​Express.js​.
