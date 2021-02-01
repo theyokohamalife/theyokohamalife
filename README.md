@@ -2,6 +2,8 @@
 
 I'm a full stack software engineer living in Japan. 🇯🇵
 
+**Here's my LinkedIn:** https://www.linkedin.com/in/lashawn-toyoda
+
 ### 🔭 I’m currently working on ...
 1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): Progressive Web App that scans the barcodes of Japanese food ingredients and provides translations and recipes.
 
