@@ -20,19 +20,22 @@ I'm a full stack software engineer living in Japan. 🇯🇵
     * Deployed the back end to ​Heroku​ with a pipeline of staging and production servers with ​Git​ environments.
     * Improved UI/UX of the ​React​ front end with HTML, CSS.
 
-3. [Our Japan Life](https://github.com/Our-Japan-Life/findadoc): An open source project to help foreign residents find healthcare and other services in their native languages.  
-
-    Key Responsibilities: 
-    * Creator and tech lead
-    * Full implementation of the front end using NuxtJS, JavaScript, and Vue 3
-    * Managing the Firebase Cloud resources for the back end
-
-4. [Voices in My Head](https://github.com/theyokohamalife/voices-in-my-head): iOS voice-controlled game for students practicing another language  
+3. [Voices in My Head](https://github.com/theyokohamalife/voices-in-my-head): iOS voice-controlled game for students practicing another language  
     
     About the app:
     * Solo project I created for fun with SwiftUI
     * Watch a funny clip of it here: [When Machine Learning Goes Terribly Wrong](https://twitter.com/theyokohamalife/status/1342095973963591681?s=20)
 
+## 🦾 Open-Source Projects I Contribute To
+
+1. [SpeakHer](https://github.com/WWCodeTokyo/speak-her-db): SpeakHer is a database of women public speakers in Japan. This information helps event organizers easily search for female speakers.
+
+2. [Our Japan Life](https://github.com/Our-Japan-Life/findadoc): An open-source project to help foreign residents find healthcare and other services in their native languages.  
+
+    Key Responsibilities: 
+    * Creator and tech lead
+    * Full implementation of the front end using NuxtJS, JavaScript, and Vue 3
+    * Managing the Firebase Cloud resources for the back end
 <!--
 **theyokohamalife/theyokohamalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
