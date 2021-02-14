@@ -1,6 +1,6 @@
 ## Hey there, I'm LaShawn — aka [The Yokohama Life](https://theyokohamalife.com) 🙋🏾‍♀️
 
-I'm a full stack software engineer living in Japan. 🇯🇵
+I'm a full-stack software engineer living in Japan. 🇯🇵
 
 **Here's my LinkedIn:** https://www.linkedin.com/in/lashawn-toyoda
 
