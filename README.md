@@ -5,7 +5,9 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
 **Here's my LinkedIn:** https://www.linkedin.com/in/lashawn-toyoda
 
 ### 🔭 I’m currently working on ...
-1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): Progressive Web App that scans the barcodes of Japanese food ingredients and provides translations and recipes.
+1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): Progressive Web App that scans the barcodes of Japanese food ingredients and provides translations and recipes.  
+
+**DEMO:** https://nihonskitchen-prod.web.app
 
     Key Responsibilities:  
     * Implementing the front end with NuxtJS and server-side rendering (SSR)
@@ -13,7 +15,9 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
     * Relaying product information between the user and database using the QuaggaJS barcode library
     * Handling data communications between the front end and Google Cloud Firestore and Storage
     
-2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-back): Progressive Web App to find, book, and consult with doctors remotely.   
+2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-back): Progressive Web App to find, book, and consult with doctors remotely.     
+
+**DEMO:** https://your-solution-front.vercel.app
 
     Key Responsibilities:  
     * Engineered the back end and created a CRUD API using ​Node.js​, ​Knex.js​, PostgreSQL​, and ​Express.js​.
