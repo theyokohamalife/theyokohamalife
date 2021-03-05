@@ -25,7 +25,8 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
     * Improved UI/UX of the ​React​ front end with HTML, CSS.
 
 3. [Voices in My Head](https://github.com/theyokohamalife/voices-in-my-head): iOS voice-controlled game for students practicing another language  
-    
+**VIDEO:** https://twitter.com/theyokohamalife/status/1342095973963591681?s=20  
+
     About the app:
     * Solo project I created for fun with SwiftUI
     * Watch a funny clip of it here: [When Machine Learning Goes Terribly Wrong](https://twitter.com/theyokohamalife/status/1342095973963591681?s=20)
