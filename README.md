@@ -6,7 +6,6 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
 
 ### 🔭 I’m currently working on ...
 1. [Nihon's Kitchen](https://github.com/nihonskitchen/frontend): Progressive Web App that scans the barcodes of Japanese food ingredients and provides translations and recipes.  
-
 **DEMO:** https://nihonskitchen-prod.web.app
 
     Key Responsibilities:  
@@ -16,7 +15,6 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
     * Handling data communications between the front end and Google Cloud Firestore and Storage
     
 2. [Hey, Doc!](https://github.com/YoSoRyuShawn/your-solution-back): Progressive Web App to find, book, and consult with doctors remotely.     
-
 **DEMO:** https://your-solution-front.vercel.app
 
     Key Responsibilities:  
