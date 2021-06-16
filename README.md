@@ -33,7 +33,7 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
 
 1. [SpeakHer](https://github.com/WWCodeTokyo/speak-her-db): SpeakHer is a database of women public speakers in Japan. This information helps event organizers easily search for women speakers.
 
-2. [Our Japan Life](https://github.com/Our-Japan-Life/findadoc): Find a Doc is a database to help foreign residents find healthcare and other services in their native languages.  
+2. [Our Japan Life](https://github.com/ourjapanlife/findadoc): Find a Doc is a database to help foreign residents find healthcare and other services in their native languages.  
 
     Key Responsibilities: 
     * Creator and tech lead
