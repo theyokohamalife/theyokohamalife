@@ -7,7 +7,7 @@ I'm a full-stack software engineer living in Japan. 🇯🇵
 
 ## 🦾 Open-Source Projects I'm Working On
 
-1. [Our Japan Life](https://github.com/ourjapanlife): Find a Doc is a database to help foreign residents find healthcare and other services in their native languages.  
+1. [Find a Doc](https://github.com/ourjapanlife): Find a Doc is a database to help foreign residents find healthcare and other services in their native languages.  
 
     Key Responsibilities: 
     * Creator and tech lead
